@@ -1,0 +1,12 @@
+sdf          | 2018-12-09 17:55 | 2   | 17  | MBABANE
+dfgd         | 2018-12-09 18:00 | 1   | 5   | GUATEMALA CITY
+mikey        | 2018-12-09 18:15 | 3   | 17  | ANTANANARIVO
+qwe          | 2018-12-09 18:15 | 1   | 4   | REYKJAVIK
+wef          | 2018-12-09 18:17 | 2   | 4   | SAN JOSE
+mikey        | 2018-12-09 18:24 | 11  | 32  | BAKU
+sd           | 2018-12-09 18:50 | 14  | 36  | MORONI
+mikey        | 2018-12-10 07:40 | 5   | 6   | VIENNA
+mikey        | 2018-12-10 07:42 | 8   | 14  | MONTEVIDEO
+asf          | 2018-12-10 07:43 | 1   | 5   | BRATISLAVA
+lkj          | 2018-12-10 07:50 | 1   | 5   | CASTRIES
+mmmmmmm      | 2018-12-10 07:52 | 1   | 12  | SANTIAGO
